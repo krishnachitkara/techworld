@@ -356,3 +356,4 @@ myfunction()
 end_time =time.time()
 print("you played",(end_time-start_time)//60 ,'minutes' , 'or,more exactly(',end_time-start_time,')seconds')
 print('cost= ',(end_time-start_time)//60,'rupees')
+#This is our python game and management system.
